@@ -1,4 +1,7 @@
 Primer repositorio
 
-##Autor
+## Autor
 Javier Casas
+
+## Remote repository
+GitHub
